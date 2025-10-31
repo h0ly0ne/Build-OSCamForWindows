@@ -4,7 +4,7 @@ try
 {
 	Clear-Host
 	
-	Write-Host "AUTOMATED OSCAM COMPILER FOR WINDOWS"
+	Write-Host "AUTOMATED OSCAM COMPILER SCRIPT FOR WINDOWS"
 	Write-Host
 	Write-Host "The whole process is fully automated. You only need this script, internet access"
 	Write-Host "and at least 2 GB free disk space in the temp directory."
